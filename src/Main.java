@@ -3,3 +3,4 @@ public class Main {
         System.out.println("Домашняя работа №2 Массивы");
     }
 }
+
